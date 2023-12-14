@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying computer engineering.<br>Passionate in studying programming.<br>Learning java with spring
+I'm currently studying computer engineering.<br>Passionate in studying programming.<br>
 
 
 ## 🌐 Socials:
